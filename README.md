@@ -1,0 +1,15 @@
+# reporter-flipbook
+
+## repORter
+
+
+
+## License Attributions
+
+reporter-flipbook relies an unmodified copy of the following libraries:
+
+### Attribution-NonCommercial-NoDerivatives 4.0 International
+
+Library | Version | License
+--------|---------|----------------
+[jQuery/JS Flipbook](https://js.dearflip.com/) | non-commercial Lite | [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
